@@ -1,5 +1,6 @@
 import joblib
 import pandas as pd
+import pytest
 
 input_df = pd.DataFrame([{
      'Dependents': 3,
@@ -18,5 +19,8 @@ input_df = pd.DataFrame([{
 
 model_path = 'Artifacts/model.pkl'
 model = joblib.load(model_path)
-pred = model.predict(input_df)
-print(pred)
+
+
+def test_inference(input_df):
+    result = model.predict(input_df)
+    assert result == [1.]
