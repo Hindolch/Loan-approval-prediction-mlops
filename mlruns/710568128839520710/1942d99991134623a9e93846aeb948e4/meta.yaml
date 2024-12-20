@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kenzi/mlops%20loan%20approver/mlruns/710568128839520710/1942d99991134623a9e93846aeb948e4/artifacts
+end_time: 1734532172048
+entry_point_name: ''
+experiment_id: '710568128839520710'
+lifecycle_stage: active
+run_id: 1942d99991134623a9e93846aeb948e4
+run_name: resilient-kit-126
+run_uuid: 1942d99991134623a9e93846aeb948e4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734532168893
+status: 3
+tags: []
+user_id: kenzi

@@ -1,0 +1,6 @@
+artifact_location: file:///home/kenzi/mlops%20loan%20approver/mlruns/710568128839520710
+creation_time: 1734532145212
+experiment_id: '710568128839520710'
+last_update_time: 1734532145212
+lifecycle_stage: active
+name: Loan Approval Model Training

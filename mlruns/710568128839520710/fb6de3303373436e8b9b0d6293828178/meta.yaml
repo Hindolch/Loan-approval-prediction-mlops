@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kenzi/mlops%20loan%20approver/mlruns/710568128839520710/fb6de3303373436e8b9b0d6293828178/artifacts
+end_time: 1734532330285
+entry_point_name: ''
+experiment_id: '710568128839520710'
+lifecycle_stage: active
+run_id: fb6de3303373436e8b9b0d6293828178
+run_name: exultant-trout-924
+run_uuid: fb6de3303373436e8b9b0d6293828178
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734532327094
+status: 3
+tags: []
+user_id: kenzi

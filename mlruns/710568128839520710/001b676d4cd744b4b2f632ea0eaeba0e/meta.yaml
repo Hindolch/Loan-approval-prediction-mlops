@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kenzi/mlops%20loan%20approver/mlruns/710568128839520710/001b676d4cd744b4b2f632ea0eaeba0e/artifacts
+end_time: 1734628695706
+entry_point_name: ''
+experiment_id: '710568128839520710'
+lifecycle_stage: active
+run_id: 001b676d4cd744b4b2f632ea0eaeba0e
+run_name: beautiful-mare-320
+run_uuid: 001b676d4cd744b4b2f632ea0eaeba0e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734628691989
+status: 3
+tags: []
+user_id: kenzi

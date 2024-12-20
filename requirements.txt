@@ -1,0 +1,10 @@
+pandas 
+numpy
+pytest
+scikit-learn
+prefect
+seaborn
+matplotlib
+imblearn
+streamlit
+gunicorn

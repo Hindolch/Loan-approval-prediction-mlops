@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kenzi/mlops%20loan%20approver/mlruns/710568128839520710/d4627716e25442618ee76377439f0b36/artifacts
+end_time: 1734532148935
+entry_point_name: ''
+experiment_id: '710568128839520710'
+lifecycle_stage: active
+run_id: d4627716e25442618ee76377439f0b36
+run_name: skillful-goose-436
+run_uuid: d4627716e25442618ee76377439f0b36
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734532145262
+status: 3
+tags: []
+user_id: kenzi

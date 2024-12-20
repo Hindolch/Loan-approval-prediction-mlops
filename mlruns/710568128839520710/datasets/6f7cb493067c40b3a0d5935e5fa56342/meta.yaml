@@ -1,0 +1,15 @@
+digest: e35d285a
+name: dataset
+profile: '{"num_rows": 675, "num_elements": 7425}'
+schema: '{"mlflow_colspec": [{"type": "long", "name": "Dependents", "required": true},
+  {"type": "long", "name": "ApplicantIncome", "required": true}, {"type": "double",
+  "name": "CoapplicantIncome", "required": true}, {"type": "double", "name": "LoanAmount",
+  "required": true}, {"type": "double", "name": "Loan_Amount_Term", "required": true},
+  {"type": "double", "name": "Credit_History", "required": true}, {"type": "long",
+  "name": "Property_Area", "required": true}, {"type": "double", "name": "Gender_Male",
+  "required": true}, {"type": "double", "name": "Married_Yes", "required": true},
+  {"type": "double", "name": "Education_Not Graduate", "required": true}, {"type":
+  "double", "name": "Self_Employed_Yes", "required": true}]}'
+source: '{"tags": {"mlflow.user": "kenzi", "mlflow.source.name": "run_pipeline.py",
+  "mlflow.source.type": "LOCAL"}}'
+source_type: code
